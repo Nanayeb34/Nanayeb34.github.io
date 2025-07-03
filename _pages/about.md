@@ -24,4 +24,4 @@ In addition to my professional work, I am actively involved in [Brilla AI](https
 
 My contributions have been recognized at various conferences and workshops, where I have presented my work at notable events such as the Deep Learning Indaba and AfricAIED. Additionally, I have developed and shared valuable tools and models that are used in the community, reflecting my commitment to open-source work and collaborative research.
 
-In my leisure time, I enjoy exploring legal thrillers, playing UNO with friends and playing football. I am committed to advancing the field of AI and am eager to collaborate with like-minded researchers and mentors in a graduate program in the area of clinical AI and medical multimodal language models to further my research and contribute to impactful projects.
+In my leisure time, I enjoy exploring legal thrillers, playing UNO with friends and playing football. I am committed to advancing the field of AI and am eager to collaborate with like-minded researchers and mentors in the area of clinical AI and genomics to contribute to impactful projects.
